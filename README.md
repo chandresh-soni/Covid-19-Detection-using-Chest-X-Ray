@@ -19,6 +19,10 @@ All these layers form a single layer in CNN. Depending upon the complexity, we c
 # Data Pre-processing
 The Normal X-RAY images have been taken from kaggle and the infected ones are taken from a github repository. The dataset is divided into train,test and validation parts. We have used shutil python library for file operations. 70 % -> train dataset, 20 % -> test dataset, 10% -> validation dataset
 
+# Infected Data refrence
+COVID-19 Image Data Collection: Prospective Predictions Are the Future
+Joseph Paul Cohen and Paul Morrison and Lan Dao and Karsten Roth and Tim Q Duong and Marzyeh Ghassemi
+arXiv:2006.11988, https://github.com/ieee8023/covid-chestxray-dataset, 2020
 #### The model got 95% test accuracy
 
 
